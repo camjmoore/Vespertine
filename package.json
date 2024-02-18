@@ -1,6 +1,6 @@
 {
   "name": "vespertine",
-  "displayName": "vespertine",
+  "displayName": "Vespertine",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "vespertine",
+        "label": "Vespertine",
         "uiTheme": "vs-dark",
         "path": "./themes/vespertine-color-theme.json"
       }
