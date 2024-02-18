@@ -1,6 +1,7 @@
 # Vespertine
 **ˈve-spər-ˌtīn**
 
-1: of, relating to, or occurring in the evening
+A colorized and desaturated version of Vesper with a high contrast accent
 
-A theme inspired by Vesper from raunofreiberg
+original theme by <a href="https://marketplace.visualstudio.com/items?itemName=raunofreiberg.vesper">raunofreiberg</a>
+
